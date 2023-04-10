@@ -1,6 +1,6 @@
 ### XingKaiXin
 
-<img align="right" src="https://github-readme-stats-qomzrcy1g-xingkaixin.vercel.app/api?username=xingkaixin&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats-qomzrcy1g-xingkaixin.vercel.app/api?username=xingkaixin&show_icons=true&theme=dracula" />
 
 > If you think you're too small to make a difference,
 > try sleeping with a mosquito – The Dalai Lama
