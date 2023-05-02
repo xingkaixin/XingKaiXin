@@ -2,8 +2,8 @@
 
 <img align="right" src="https://github-readme-stats-qomzrcy1g-xingkaixin.vercel.app/api?username=xingkaixin&show_icons=true&theme=dracula" />
 
-> If you think you're too small to make a difference,
-> try sleeping with a mosquito – The Dalai Lama
+> 人生不该只有一种体验，不应该每个人的生活都像钉子一样专注。
+> 做个兴趣广泛、体验丰富的人，同样幸福
 
 Hey，我是XingKaiXin，我在上海工作。
 
