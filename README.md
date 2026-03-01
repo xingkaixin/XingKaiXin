@@ -1,12 +1,23 @@
-### XingKaiXin
+## Hi, I'm XingKaiXin 👋
 
-<img align="right" src="https://github-readme-stats-qomzrcy1g-xingkaixin.vercel.app/api?username=xingkaixin&show_icons=true&theme=dracula" />
+I'm **Kevin Xing**, also known as **XingKaiXin** or **xingkaixin**.
+Based in Shanghai.
 
-> 人生不该只有一种体验，不应该每个人的生活都像钉子一样专注。
-> 做个兴趣广泛、体验丰富的人，同样幸福
+Life should not be limited to a single mode of experience, and not everyone needs to live with the singular focus of a nail. I prefer to be broadly curious and experience different dimensions of work and life. That, to me, is another form of fulfillment.
 
-Hey，我是XingKaiXin，我在上海工作。
+Outside of work and continuous learning, I am also a photography enthusiast and someone who enjoys exploring and experimenting with a wide range of digital products.
 
-工作、学习之余，我还是一个摄影爱好者，同时也非常喜欢折腾各类数码产品。
+### My Repo
 
-如果你固执已见，不思悔改，继续进行违法活动，你将会受到法律的制裁！你听明白了吗？
+* 🗄️ **[DDLBuilder](https://ddl.xingkaixin.me)** – Generate CREATE TABLE DDL statements for multiple database systems in real time through form and table-based input, with one-click copy support.
+* 📦 **[agent-dump](https://github.com/xingkaixin/agent-dump)** – An AI coding assistant session export tool. Supports exporting session data from multiple AI coding tools into structured JSON.
+* 📊 **[agent-view](https://github.com/xingkaixin/agent-view)** – A tool for visualizing and browsing AI agent sessions.
+* 💹 **[rootify-app](https://github.com/xingkaixin/rootify-wails-app)** - A cross-platform desktop application built with Wails, designed for financial term root translation and text analysis.
+* 🔑 **[gilbling](https://github.com/xingkaixin/gilbling)** - A Chrome extension for Juyuan Data Dictionary, providing field highlighting, business key identification, and table export capabilities.
+* 🚀 **[db-ferry](https://github.com/xingkaixin/db-ferry)** - A Go command-line tool that transfers data
+* ☁️ **[cos-uploader](https://github.com/xingkaixin/cos-uploader)** - Tencent Cloud COS object upload, implemented based on the official Go SDK.
+
+
+### Find Me
+
+[X](https://x.com/xingkaixin) · [Telegram](https://t.me/xingkaixin) · [Blog](https://xingkaixin.me)
