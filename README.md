@@ -10,11 +10,11 @@ Outside of work and continuous learning, I am also a photography enthusiast and 
 ### My Repo
 
 * 🗄️ **[DDLBuilder](https://ddl.xingkaixin.me)** – Generate CREATE TABLE DDL statements for multiple database systems in real time through form and table-based input, with one-click copy support.
-* 📦 **[agent-dump](https://github.com/xingkaixin/agent-dump)** – An AI coding assistant session export tool. Supports exporting session data from multiple AI coding tools into structured JSON.
+* 📦 **[agent-dump](https://agent-dump.xingkaixin.me)** – An AI coding assistant session export tool. Supports exporting session data from multiple AI coding tools into structured JSON.
 * 📊 **[agent-view](https://agent.xingkaixin.me)** – A tool for visualizing and browsing AI agent sessions.
 * 💹 **[rootify-app](https://github.com/xingkaixin/rootify-wails-app)** - A cross-platform desktop application built with Wails, designed for financial term root translation and text analysis.
 * 🔑 **[gilbling](https://github.com/xingkaixin/gilbling)** - A Chrome extension for Juyuan Data Dictionary, providing field highlighting, business key identification, and table export capabilities.
-* 🚀 **[db-ferry](https://github.com/xingkaixin/db-ferry)** - A Go command-line tool that transfers data
+* 🚀 **[db-ferry](https://db-ferry.xingkaixin.me)** - A Go command-line tool that transfers data
 * ☁️ **[cos-uploader](https://github.com/xingkaixin/cos-uploader)** - Tencent Cloud COS object upload, implemented based on the official Go SDK.
 
 
