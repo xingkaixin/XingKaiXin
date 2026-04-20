@@ -9,13 +9,35 @@ Outside of work and continuous learning, I am also a photography enthusiast and 
 
 ### My Repo
 
-* 🗄️ **[DDLBuilder](https://ddl.xingkaixin.me)** – Generate CREATE TABLE DDL statements for multiple database systems in real time through form and table-based input, with one-click copy support.
-* 📦 **[agent-dump](https://agent-dump.xingkaixin.me)** – An AI coding assistant session export tool. Supports exporting session data from multiple AI coding tools into structured JSON.
-* 📊 **[agent-view](https://agent.xingkaixin.me)** – A tool for visualizing and browsing AI agent sessions.
-* 💹 **[rootify-app](https://github.com/xingkaixin/rootify-wails-app)** - A cross-platform desktop application built with Wails, designed for financial term root translation and text analysis.
-* 🔑 **[gilbling](https://github.com/xingkaixin/gilbling)** - A Chrome extension for Juyuan Data Dictionary, providing field highlighting, business key identification, and table export capabilities.
-* 🚀 **[db-ferry](https://db-ferry.xingkaixin.me)** - A Go command-line tool that transfers data
-* ☁️ **[cos-uploader](https://github.com/xingkaixin/cos-uploader)** - Tencent Cloud COS object upload, implemented based on the official Go SDK.
+<p align="left">
+  <a href="https://codesesh.xingkaixin.me"><img src="assets/codesesh.svg" width="20" height="20" align="center"></a>
+  <b><a href="https://codesesh.xingkaixin.me">CodeSesh</a></b> – One place to browse all AI coding sessions. Auto-scan local filesystem, render Claude Code, Cursor, Kimi and more in a unified Web UI with replay, cost stats and full-text search.
+</p>
+
+<p align="left">
+  <a href="https://skills.xingkaixin.me"><img src="assets/skills.svg" width="20" height="20" align="center"></a>
+  <b><a href="https://skills.xingkaixin.me">Skills</a></b> – A unified manager for Claude Code external skill repos. Aggregates upstream vendor skills and custom sources into a standardized skills directory.
+</p>
+
+<p align="left">
+  <a href="https://unquote.xingkaixin.me"><img src="assets/unquote.svg" width="20" height="20" align="center"></a>
+  <b><a href="https://unquote.xingkaixin.me">Unquote</a></b> – Detects and recursively expands stringified values in JSON. Built for AI model outputs and MCP/Agent tool calls with nested JSON. Supports JSONL, syntax highlighting and path display.
+</p>
+
+<p align="left">
+  <a href="https://agent-dump.xingkaixin.me"><img src="assets/agent-dump.svg" width="20" height="20" align="center"></a>
+  <b><a href="https://agent-dump.xingkaixin.me">Agent Dump</a></b> – AI coding assistant session export tool. Supports Claude Code, OpenCode, Codex, Kimi and more with interactive selection, batch export and token stats.
+</p>
+
+<p align="left">
+  <a href="https://ddl.xingkaixin.me"><img src="assets/ddlbuilder.svg" width="20" height="20" align="center"></a>
+  <b><a href="https://ddl.xingkaixin.me">DDLBuilder</a></b> – Multi-database DDL generator. Generate MySQL, PostgreSQL, Oracle and six more databases' CREATE TABLE statements via form input. Supports partition tables, indexes, privilege config and SQL import parsing.
+</p>
+
+<p align="left">
+  <a href="https://db-ferry.xingkaixin.me"><img src="assets/db-ferry.svg" width="20" height="20" align="center"></a>
+  <b><a href="https://db-ferry.xingkaixin.me">DB Ferry</a></b> – Multi-database migration CLI tool. Stream data between Oracle, MySQL, PostgreSQL, SQLite and more via declarative task.toml config. Supports resume and batch verification.
+</p>
 
 
 ### Find Me
